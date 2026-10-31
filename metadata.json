@@ -1,0 +1,6 @@
+{
+  "name": "Mukammal Python Backend — 3D Kurs Xaritasi",
+  "description": "Python, SQL, Telegram Bot, Django, DRF va FastAPI bo'yicha 3D interaktiv shahar xaritasi va o'quv platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
